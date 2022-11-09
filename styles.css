@@ -1,0 +1,26 @@
+body{
+    font-family: 'Merriweather', serif;
+}
+
+#heading{
+    background-color: #9A1663;
+    padding: 3% 15%;
+    text-align: center;
+    
+}
+
+.main-area{
+    padding: 3% 20% 20%;
+    background-color: #FFD384;
+    
+    
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    color: #FFD384;
+}
+h4{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
